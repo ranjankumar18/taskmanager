@@ -1,0 +1,10 @@
+.container{
+	background: url(../images/bgh.jpg);
+}
+.jumbotron{
+	border: 2px dashed blue;
+	background-color: #fff;
+}
+.table-bordered{
+	border: 3px dashed seagreen;
+}
